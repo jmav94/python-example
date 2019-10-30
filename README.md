@@ -1,1 +1,1 @@
-# aws-platzi-python
+# aws cloud computing
