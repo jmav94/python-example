@@ -1,1 +1,1 @@
-# aws-platzi-python
+# python-aws-example
